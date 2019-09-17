@@ -9,7 +9,7 @@ package QAcademico;
  *
  * @author USUARIO
  */
-public class Professor {
+public class Professor extends Pessoa {
     private String cursos;
     private double  salario;
 
